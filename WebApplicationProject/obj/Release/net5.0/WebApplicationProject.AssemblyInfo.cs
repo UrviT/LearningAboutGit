@@ -10,7 +10,7 @@
 
 using System;
 using System.Reflection;
-//hiiiiiiii
+
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApplicationProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
